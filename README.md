@@ -1,7 +1,12 @@
-# Penjelasan Dari Setiap Langkah Praktikum
++** Penjelasan dari setiap langkah **+
 
 
 #### 1. Membuat database dengan nama database 'rental_mobil' dan tambahkan juga tabel 'mobil'. 
+***Struktur Tabel***
+* = id
+* = merk
+* = warna
+* = harga
 
 #### 2. Membuat koneksi ke database MySQL dengan nama file database.php.
 
