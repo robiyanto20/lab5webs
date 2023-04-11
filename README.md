@@ -17,18 +17,3 @@
 
 
 
-### Berikut Tampilan Website nya :
-
-
-#### Index.php
-![image](https://user-images.githubusercontent.com/127643042/230733733-7f293a50-f3be-4c68-bc62-93246c0f758e.png)
-
-
-
-#### Edit.php
-![image](https://user-images.githubusercontent.com/127643042/230733784-80f6c377-8342-476d-ada1-f5433e1308d4.png)
-
-
-
-#### Tambah.php
-![image](https://user-images.githubusercontent.com/127643042/230733797-3bf4c22e-779c-42fe-8d10-a1f6bbe7021f.png)
